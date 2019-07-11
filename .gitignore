@@ -33,15 +33,15 @@ hs_err_pid*
 
 # Android Studio
 *.iml
-**/.gradle
-**/local.properties
-**/.idea/caches/build_file_checksums.ser
-**/.idea/libraries
-**/.idea/modules.xml
-**/.idea/workspace.xml
-**/.DS_Store
-**/build
-**/captures
-.externalNativeBuild
+IntegralCalculationMobile/.gradle
+IntegralCalculationMobile/local.properties
+IntegralCalculationMobile/.idea/caches/build_file_checksums.ser
+IntegralCalculationMobile/.idea/libraries
+IntegralCalculationMobile/.idea/modules.xml
+IntegralCalculationMobile/.idea/workspace.xml
+IntegralCalculationMobile/.DS_Store
+IntegralCalculationMobile/build
+IntegralCalculationMobile/captures
+IntegralCalculationMobile/.externalNativeBuild
 
 
